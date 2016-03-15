@@ -1,8 +1,7 @@
 # Pecan Pie - Recipe
-
 [For more information](http://www.marthastewart.com/312503/pecan-pie)
 
-## INGREDIENTS:
+## INGREDIENTS
 
 1. 1/2 recipe (1 disk) Basic Pie Dough, rolled out and fitted into a 9-inch pie plate
 2. 4 large eggs
@@ -15,7 +14,7 @@
 9. 3 cups pecan halves
 10. Lightly sweetened whipped cream, for serving (optional)
 
-## DIRECTIONS:
+## DIRECTIONS
 
 - Preheat oven to 375 degrees. with rack set in lowest position.
 
